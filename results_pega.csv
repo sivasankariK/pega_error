@@ -1,0 +1,8 @@
+predicted_action
+"has been voted out of ES2018 [4]. The update plan for Operators is divided into three milestones and detailed in this proposal [5].
+
+End of Life
+
+None of the modules that are scheduled for End-of-Life (EOL) in 2018 just miss the cut-off for inclusion this time around, but it is inevitable and next year is packed with modules that will no longer be supported. This update will be published yearly for Node.js, not too long after Node dicocures an LTS version with the new package manager. Looking into the details of what is planned for next year will need to be the subject of a separate report.
+
+Thanks to Josh Breindel for his inputs throughout this very long process."
